@@ -22,7 +22,7 @@ DQ had the highest return rate (199.4%) and TERP was the only one with negative 
 
 In 2017 , 11 stocks out of 12 had a positive return rate.  
 
-![Click Here to see the results for 2017]()
+[Click Here to see the results for 2017](Resources/VBA_Challenge_2017.png)
 
 ### Analysis of stocks in 2018
 
@@ -32,7 +32,7 @@ The highest daily volume belonged to ENPH and the lowest was AY.
 
 The highest return rate in 2018 also beloned to ENPH at 81.9%. DQ had a negative return rate at -62.6% despite a 200% growth in daily volume.  
 
-![Click Here to see the results for 2018](resources/) 
+[Click Here to see the results for 2018](Resources/VBA_Challenge_2018.png) 
 
 
 ## Results
