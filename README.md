@@ -66,7 +66,7 @@ The highest return rate in 2018 also beloned to ENPH at 81.9%. DQ had a negative
 
 - Advantages: The original code was easier to write. It used only 3 variables for all tickers to hold total volume and startprice and endprices. 
 
-- Disadvantages: The process time was longer because of nested loops and keep activating different worksheets within the loops. The Total Daily Volume and Starting Price and Ending Price for each ticker will not be saved and reused. 
+- Disadvantages: The process time was longer because of nested loops (36,156 loops versus 3013 loops) and keep activating different worksheets within the loops. The Total Daily Volume and Starting Price and Ending Price for each ticker will not be saved and reused. 
 
 
 **The factored code:**
