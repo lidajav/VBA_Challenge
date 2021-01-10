@@ -66,14 +66,14 @@ The highest return rate in 2018 also beloned to ENPH at 81.9%. DQ had a negative
 
 - Advantages: The original code was easier to write. It used only 3 variables for all tickers to hold total volume and startprice and endprices. 
 
-- Disadvantages: The process time was slower because of nested loops and keep activating different worksheets within the loops. In this code we could not access and reuse the data in memory that was created in the loop for each ticker.   
+- Disadvantages: The process time was longer because of nested loops and keep activating different worksheets within the loops. The Total Daily Volume and Starting Price and Ending Price for each ticker will not be saved and reused. 
 
 
 **The factored code:**
 
-- Advantages: Shorter process time. Used an array of 12 to keep the total volume and start price and end price for each ticker. That would give us an access to reuse the data stored in the array.It didn't use a nested loop and didn't jump into different worksheet while generating data.
+- Advantages: Shorter process time. Used three arrays of 12 to keep the Total Daily Volume, Starting Price and Ending Price for each ticker and for that reason there was no need for the nested loop. Therefore there was no need to keep switching worksheets while generating data. 
 
-- Disadvantages: It used a more complicated data structure to keep the data. It was not easy and fast to code and took time to design our variables.
+- Disadvantages: It used a more complicated data structure to keep the data.We used 36 variables ( 3 arrays of 12) instead of 3 variables.  It was not easy and fast to code and took time to design our variables and output.
 
 
 
