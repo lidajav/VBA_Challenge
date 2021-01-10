@@ -1,5 +1,5 @@
 
-# An Analysis of Wall Street stock market 
+# An Analysis of Wall Street Stock Market 
 
 ## Overview of Project
 
