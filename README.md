@@ -6,7 +6,7 @@
 This project automates an analysis on an Excel dataset stock market using VBA 
 
 ### Purpose
-To help Steve look into green energy stocks including DQ for his parents to invest 
+To help Steve look into green energy stocks performance including DQ stock for his parents to invest 
 
 
 
