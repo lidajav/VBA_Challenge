@@ -44,7 +44,7 @@ The highest return rate in 2018 also belonged to ENPH at 81.9%. DQ had a negativ
 
 ## Summary
 
-### Advantages and disadvantages of refacoring code in general
+### Advantages and disadvantages of refactoring code in general
   
 **Advantages:** 
 
